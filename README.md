@@ -3,6 +3,13 @@
 ##### 本项目由==***AIOVTUE***==独立开发
 一个基于Cloudflare的全栈解决方案，让您可以轻松地将Obsidian笔记发布到Web平台，支持文章管理、分享和在线编辑。
 
+## 🌟 本站提供demo
+
+### 本站demo可以直接配合插件使用，可以先进行体验在考虑是否需要部署，或者轻量使用demo也没问题，注意数据安全和文档即可，使用的用户请遵守demo相关要求
+[点击跳转demo](https://demo.aiovtue.dpdns.org/)
+demo的登陆秘钥和api秘钥均为`demo123`
+
+
 ## 🌟 网页预览
 
 ![](https://pic1.imgdb.cn/item/689f622658cb8da5c8281965.png)
