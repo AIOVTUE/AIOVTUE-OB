@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "AIOVTUE-OB-back",
+	"name": "aiovtue-ob-back",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-08-13",
 	"observability": {
