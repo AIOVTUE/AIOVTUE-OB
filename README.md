@@ -9,8 +9,10 @@
 [点击跳转demo](https://demo.aiovtue.dpdns.org/)
 demo的登陆秘钥和api秘钥均为`demo123`
 
-demo需要配合obsidian插件使用，可以再release中下载，也可以[点击链接下载插件](https://github.com/AIOVTUE/AIOVTUE-OB/releases/download/V1.0.0/obsidian-plugin.zip)
-[obsidian插件安装教程](https://github.com/AIOVTUE/AIOVTUE-OB#5-obsidian%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85)
+demo需要配合obsidian插件使用，可以再release中下载，也可以  
+### [点击链接下载插件](https://github.com/AIOVTUE/AIOVTUE-OB/releases/download/V1.0.0/obsidian-plugin.zip)  
+
+### [obsidian插件安装教程](https://github.com/AIOVTUE/AIOVTUE-OB#5-obsidian%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85)  
 
 
 ## 🌟 网页预览
