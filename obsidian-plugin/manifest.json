@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-web-publisher",
+  "name": "Obsidian Web Publisher",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "发布Obsidian笔记到Web平台，支持文章管理和分享链接生成",
+  "author": "Obsidian Web Team",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}

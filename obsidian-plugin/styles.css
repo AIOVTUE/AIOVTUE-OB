@@ -1,0 +1,150 @@
+/* Obsidian Web Publisher Plugin Styles */
+
+.obsidian-web-modal {
+    padding: 20px;
+}
+
+.obsidian-web-modal h2 {
+    margin-bottom: 15px;
+    color: var(--text-normal);
+}
+
+.obsidian-web-modal p {
+    margin-bottom: 10px;
+    color: var(--text-muted);
+}
+
+.obsidian-web-modal a {
+    color: var(--text-accent);
+    text-decoration: none;
+}
+
+.obsidian-web-modal a:hover {
+    text-decoration: underline;
+}
+
+.obsidian-web-modal button {
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.obsidian-web-modal button:hover {
+    background-color: var(--interactive-accent-hover);
+}
+
+.obsidian-web-modal button:last-child {
+    background-color: var(--interactive-normal);
+    color: var(--text-normal);
+}
+
+.obsidian-web-modal button:last-child:hover {
+    background-color: var(--interactive-hover);
+}
+
+/* Settings tab styles */
+.obsidian-web-settings h3 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: var(--text-normal);
+}
+
+.obsidian-web-settings div p {
+    margin: 5px 0;
+    color: var(--text-muted);
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+/* Share link container styles */
+.share-link-container {
+    display: flex;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.share-link-container input {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-primary);
+    color: var(--text-normal);
+}
+
+.share-link-container button {
+    padding: 8px 16px;
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.share-link-container button:hover {
+    background: var(--interactive-accent-hover);
+}
+
+/* 过期时间选择模态框样式 */
+.expiration-options {
+    margin: 20px 0;
+}
+
+.option-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 8px 0;
+    padding: 8px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.option-item:hover {
+    background: var(--background-modifier-hover);
+}
+
+.option-item input[type="radio"] {
+    margin: 0;
+}
+
+.option-item label {
+    cursor: pointer;
+    flex: 1;
+}
+
+.button-container {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.button-container button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button-container button:first-child {
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+}
+
+.button-container button:first-child:hover {
+    background: var(--interactive-accent-hover);
+}
+
+.button-container button:last-child {
+    background: var(--background-modifier-border);
+    color: var(--text-normal);
+}
+
+.button-container button:last-child:hover {
+    background: var(--background-modifier-hover);
+}
