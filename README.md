@@ -1,0 +1,2 @@
+# AIOVTUE-OB
+一个基于cloudflare的obsidian文章分享项目，可以做到一键上传obsidian的文档生成分享链接在线访问
