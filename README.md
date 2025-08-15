@@ -99,7 +99,7 @@ AIOVTUE-OB/
 - 登陆cloudflare，点击workers，新建workers
 - 选择从储存库导入
 - 选择克隆的仓库，即本项目
-- 名称填`AIOVTUE-OB-back`，根目录选择:/backend
+- 名称填`aiovtue-ob-back`，根目录选择:/backend
 ![](https://pic1.imgdb.cn/item/689f5c1958cb8da5c8281847.png)
 - 点击部署就可以了
 
